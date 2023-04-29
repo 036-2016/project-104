@@ -1,0 +1,27 @@
+body
+{
+ background-image: linear-gradient(to bottom right, pink,blue,red);
+}
+
+.heading
+{
+    width: 50%;
+    font-size: 25px;
+}
+
+.name_of_members,#result_family_name,#result_member_accuracy
+{
+color: gold;
+}
+
+#name,#accuracy,#heading
+{
+    color: gold;
+}
+
+#camera
+{
+    border: 4px inset pink;
+    width: 400px;
+    height: 350px;
+}
